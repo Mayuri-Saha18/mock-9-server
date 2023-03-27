@@ -1,0 +1,26 @@
+{
+ 
+  "users":[
+    {
+      "name": "mp",
+      "email": "",
+      "password": "",
+      "repeat_password": "qwer",
+      "id": 1
+    },
+    {
+      "name": "mpasdd",
+      "email": "",
+      "password": "",
+      "repeat_password": "qwer23",
+      "id": 2
+    },
+    {
+      "name": "mpasdd",
+      "email": "",
+      "password": "",
+      "repeat_password": "qwer23",
+      "id": 3
+    }
+  ]
+}
