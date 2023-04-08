@@ -16,10 +16,10 @@
       "id": 2,
       "image_url": "https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg",
       "book_name": "Zoo",
-      "author": "Sudev",
-      "genre": "scice",
+      "author": "Mayuri",
+      "genre": "science",
       "edition": "2023",
-      "publisher": "Sudev",
+      "publisher": "Mayuri",
       "cost": 1400,
       "borrowed": false
     }
