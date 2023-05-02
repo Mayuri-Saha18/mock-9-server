@@ -59,6 +59,24 @@
       "gender": "Female",
       "category": "Saree",
       "price": 1400
+    },
+    {
+      "id": 3,
+      "image_url": "https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg",
+      "product_name": "Kurti",
+      "description": "Mayuri Kurti",
+      "gender": "Female",
+      "category": "Kurti",
+      "price": 400
+    },
+    {
+      "id": 4,
+      "image_url": "https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg",
+      "product_name": "Lehenga",
+      "description": "Lehenga",
+      "gender": "Female",
+      "category": "Lehenga",
+      "price": 4000
     }
   ]
 }
