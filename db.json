@@ -40,5 +40,25 @@
       "cost": 1400,
       "borrowed": false
     }
+  ],
+  "products":[
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "product_name": "male shirts",
+      "description": "rock on",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 1299
+    },
+    {
+      "id": 2,
+      "image_url": "https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg",
+      "product_name": "Zoom sarees",
+      "description": "Mayuri saress",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 1400
+    }
   ]
 }
